@@ -87,12 +87,12 @@ header {
   text-align: center;
   cursor: pointer;
 }
-
+/* Added styling to slider detail text */
 #length {
   margin-top: 5px;
   margin-bottom: 1px;
 }
-
+/* Added styling to slider value  */
 .sliderValue{
     margin: 1px;
     margin-bottom: 5px;
