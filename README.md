@@ -5,6 +5,6 @@ The user has the ability to choose a password length between 8 & 128 as well as 
 They must select at least one criteria and will be alerted if they have not.
 
 # Screenshots of Project
-![Start](.assets/passwordGeneratorStart.png "Start")
+![Start](./assets/passwordGeneratorStart.png "Start")
 ![Results](./assets/passwordGeneratorResults.png "Results")
 
